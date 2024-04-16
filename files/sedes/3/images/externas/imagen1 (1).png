@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  filesize(): stat failed for files/bancoCampanas/9/images/imagen1.png in <b>C:\xampp\htdocs\sahm\Library\download.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  readfile(files/bancoCampanas/9/images/imagen1.png): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\sahm\Library\download.php</b> on line <b>30</b><br />
